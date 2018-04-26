@@ -1,0 +1,14 @@
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\FullCountingSort.exe.config
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\FullCountingSort.exe
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\FullCountingSort.pdb
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.exe
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.pdb
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.csprojResolveAssemblyReference.cache

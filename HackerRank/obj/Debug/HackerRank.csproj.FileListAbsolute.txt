@@ -1,0 +1,14 @@
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\HackerRank\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+C:\Zlat\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
+C:\Zlat\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
