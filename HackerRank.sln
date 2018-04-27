@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumbers", "ClosestNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{F4569310-82F5-474A-85B0-93D4782A4747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPartOne", "InsertionSortPartOne\InsertionSortPartOne.csproj", "{D5A91B27-4F19-4C00-9CB8-8426789665F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPartTwo", "InsertionSortPartTwo\InsertionSortPartTwo.csproj", "{35EE81E3-73C6-4FEE-B1E6-ABFF34767598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F4569310-82F5-474A-85B0-93D4782A4747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4569310-82F5-474A-85B0-93D4782A4747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4569310-82F5-474A-85B0-93D4782A4747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A91B27-4F19-4C00-9CB8-8426789665F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A91B27-4F19-4C00-9CB8-8426789665F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A91B27-4F19-4C00-9CB8-8426789665F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A91B27-4F19-4C00-9CB8-8426789665F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EE81E3-73C6-4FEE-B1E6-ABFF34767598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EE81E3-73C6-4FEE-B1E6-ABFF34767598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EE81E3-73C6-4FEE-B1E6-ABFF34767598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EE81E3-73C6-4FEE-B1E6-ABFF34767598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\InsertionSortPartTwo.exe.config
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\InsertionSortPartTwo.exe
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\InsertionSortPartTwo.pdb
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\obj\Debug\InsertionSortPartTwo.exe
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\obj\Debug\InsertionSortPartTwo.pdb
