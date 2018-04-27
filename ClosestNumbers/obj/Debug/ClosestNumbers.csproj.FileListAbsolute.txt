@@ -1,0 +1,14 @@
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\ClosestNumbers.exe.config
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\ClosestNumbers.exe
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\ClosestNumbers.pdb
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.csprojResolveAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.exe
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.pdb

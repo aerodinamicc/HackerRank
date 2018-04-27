@@ -1,0 +1,13 @@
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\FindTheMedian.exe.config
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\FindTheMedian.exe
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\FindTheMedian.pdb
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.exe
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.pdb
