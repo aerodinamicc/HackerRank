@@ -4,24 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InsertionSortPartOne
+namespace InsertionSortAdvancedAnalysis
 {
-    class InsertionSortP1
+    class InsertionSortAdvanced
     {
         static void Main(string[] args)
         {
-            var count = int.Parse(Console.ReadLine());
-            var nums = Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToList();
+            var iterations = int.Parse(Console.ReadLine());
 
-            var result = Sort(nums);
+            var builder = new StringBuilder();
+            for (int i = 0; i < iterations; i++)
+            {
+                var count = int.Parse(Console.ReadLine());
+                var numbers = Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToList();
 
-            Console.WriteLine(result);
+                var result = CountMoves(numbers);
+                if (i != iterations)
+                {
+                    builder.AppendLine(result);
+                }
+                else
+                {
+                    builder.Append(result);
+                }
+            }
+
+            Console.WriteLine(builder);
         }
 
-        public static string Sort(List<int> inputList)
+        public static string CountMoves(List<int> inputList)
         {
-            var builder = new StringBuilder();
-
+            var moves = 0;
             for (int i = 0; i < inputList.Count; i++)
             {
                 var currElement = inputList[i];
@@ -32,6 +45,7 @@ namespace InsertionSortPartOne
                 }
 
                 var prevElement = inputList[i - 1];
+
 
                 if (prevElement <= currElement)
                 {
@@ -45,29 +59,17 @@ namespace InsertionSortPartOne
                     if (currElement < prevElement)
                     {
                         inputList[j] = prevElement;
-                        LinePrint(inputList, builder);
+                        moves += 1;
                     }
                     else
                     {
                         inputList[j] = currElement;
-                        LinePrint(inputList, builder);
                         break;
                     }
                 }
             }
-            builder.Length -= 2;
-            return builder.ToString();
-        }
 
-        private static void LinePrint(List<int> inputList, StringBuilder builder)
-        {
-            foreach (var num in inputList)
-            {
-                builder.Append(num + " ");
-            }
-
-            builder.Length -= 1;
-            builder.AppendLine();
+            return moves.ToString();
         }
     }
 }

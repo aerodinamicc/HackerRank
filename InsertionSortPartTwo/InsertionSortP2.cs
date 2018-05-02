@@ -59,7 +59,7 @@ namespace InsertionSortPartTwo
                 }
             }
 
-            builder.Length -= 1;
+            builder.Length -= 2;
             return builder.ToString();
         }
 

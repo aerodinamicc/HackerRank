@@ -1,0 +1,16 @@
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\DijkstraShortestReach.exe.config
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\DijkstraShortestReach.exe
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\DijkstraShortestReach.pdb
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\obj\Debug\DijkstraShortestReach.csprojResolveAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\obj\Debug\DijkstraShortestReach.exe
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\obj\Debug\DijkstraShortestReach.pdb
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\Tests\testCase3.txt
+C:\Zlat\HackerRank\HackerRank\DijkstraShortestReach\bin\Debug\Tests\testCase2.txt

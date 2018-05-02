@@ -11,3 +11,4 @@ C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\bin\Debug\xunit.execution.desktop.xml
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\obj\Debug\InsertionSortPartTwo.exe
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\obj\Debug\InsertionSortPartTwo.pdb
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartTwo\obj\Debug\InsertionSortPartTwo.csprojResolveAssemblyReference.cache
