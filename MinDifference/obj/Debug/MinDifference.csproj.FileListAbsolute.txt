@@ -1,0 +1,14 @@
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\MinDifference.exe.config
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\MinDifference.exe
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\MinDifference.pdb
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.abstractions.dll
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.assert.dll
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.core.dll
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.execution.desktop.dll
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.abstractions.xml
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.assert.xml
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.core.xml
+C:\Zlat\HackerRank\HackerRank\MinDifference\bin\Debug\xunit.execution.desktop.xml
+C:\Zlat\HackerRank\HackerRank\MinDifference\obj\Debug\MinDifference.csprojResolveAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\MinDifference\obj\Debug\MinDifference.exe
+C:\Zlat\HackerRank\HackerRank\MinDifference\obj\Debug\MinDifference.pdb

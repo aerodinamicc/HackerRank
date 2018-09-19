@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortAdvancedAnalys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraShortestReach", "DijkstraShortestReach\DijkstraShortestReach.csproj", "{250EB956-9625-43F1-A110-92A3197252EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinDifference", "MinDifference\MinDifference.csproj", "{140A8953-E8D7-4862-B6A9-E7ED5370A9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStops", "BusStops\BusStops.csproj", "{4634973A-4DED-4094-85BD-37829B5E099D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. NestedLogic", "26. NestedLogic\26. NestedLogic.csproj", "{4EC1B3BC-45AC-4EEA-894D-1DC3D69F22C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,8 +69,23 @@ Global
 		{250EB956-9625-43F1-A110-92A3197252EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250EB956-9625-43F1-A110-92A3197252EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{250EB956-9625-43F1-A110-92A3197252EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140A8953-E8D7-4862-B6A9-E7ED5370A9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140A8953-E8D7-4862-B6A9-E7ED5370A9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140A8953-E8D7-4862-B6A9-E7ED5370A9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140A8953-E8D7-4862-B6A9-E7ED5370A9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4634973A-4DED-4094-85BD-37829B5E099D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4634973A-4DED-4094-85BD-37829B5E099D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4634973A-4DED-4094-85BD-37829B5E099D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4634973A-4DED-4094-85BD-37829B5E099D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC1B3BC-45AC-4EEA-894D-1DC3D69F22C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC1B3BC-45AC-4EEA-894D-1DC3D69F22C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC1B3BC-45AC-4EEA-894D-1DC3D69F22C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC1B3BC-45AC-4EEA-894D-1DC3D69F22C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655C8EF9-BA12-43E1-BB22-6A8D4A994AB1}
 	EndGlobalSection
 EndGlobal
