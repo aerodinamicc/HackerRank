@@ -9,6 +9,7 @@ C:\Zlat\HackerRank\HackerRank\BusStops\bin\Debug\xunit.abstractions.xml
 C:\Zlat\HackerRank\HackerRank\BusStops\bin\Debug\xunit.assert.xml
 C:\Zlat\HackerRank\HackerRank\BusStops\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\BusStops\bin\Debug\xunit.execution.desktop.xml
-C:\Zlat\HackerRank\HackerRank\BusStops\obj\Debug\BusStops.csprojResolveAssemblyReference.cache
 C:\Zlat\HackerRank\HackerRank\BusStops\obj\Debug\BusStops.exe
 C:\Zlat\HackerRank\HackerRank\BusStops\obj\Debug\BusStops.pdb
+C:\Zlat\HackerRank\HackerRank\BusStops\obj\Debug\BusStops.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\BusStops\obj\Debug\BusStops.csproj.CopyComplete

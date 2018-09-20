@@ -11,3 +11,5 @@ C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\FindTheMedian\bin\Debug\xunit.execution.desktop.xml
 C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.exe
 C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.pdb
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\FindTheMedian\obj\Debug\FindTheMedian.csproj.CopyComplete

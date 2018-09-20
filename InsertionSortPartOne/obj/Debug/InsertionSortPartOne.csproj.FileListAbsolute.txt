@@ -9,6 +9,7 @@ C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\bin\Debug\xunit.abstractions.
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\bin\Debug\xunit.assert.xml
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\bin\Debug\xunit.execution.desktop.xml
-C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\obj\Debug\InsertionSortPartOne.csprojResolveAssemblyReference.cache
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\obj\Debug\InsertionSortPartOne.exe
 C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\obj\Debug\InsertionSortPartOne.pdb
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\obj\Debug\InsertionSortPartOne.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\InsertionSortPartOne\obj\Debug\InsertionSortPartOne.csproj.CopyComplete

@@ -9,6 +9,8 @@ C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\bin\Debug\xunit.abstractions.x
 C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\bin\Debug\xunit.assert.xml
 C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\bin\Debug\xunit.execution.desktop.xml
-C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.csprojResolveAssemblyReference.cache
 C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.exe
 C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.pdb
+C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.csprojAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\CountingSortPartTwo\obj\Debug\CountingSortPartTwo.csproj.CopyComplete

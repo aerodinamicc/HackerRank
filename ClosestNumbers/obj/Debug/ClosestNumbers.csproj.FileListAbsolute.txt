@@ -9,6 +9,8 @@ C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.abstractions.xml
 C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.assert.xml
 C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.core.xml
 C:\Zlat\HackerRank\HackerRank\ClosestNumbers\bin\Debug\xunit.execution.desktop.xml
-C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.csprojResolveAssemblyReference.cache
 C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.exe
 C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.pdb
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.csprojAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\ClosestNumbers\obj\Debug\ClosestNumbers.csproj.CopyComplete

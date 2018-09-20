@@ -11,4 +11,6 @@ C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.exe
 C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.pdb
 C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.execution.desktop.dll
 C:\Zlat\HackerRank\HackerRank\FullCountingSort\bin\Debug\xunit.execution.desktop.xml
-C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.csprojResolveAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.csprojAssemblyReference.cache
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.csproj.CoreCompileInputs.cache
+C:\Zlat\HackerRank\HackerRank\FullCountingSort\obj\Debug\FullCountingSort.csproj.CopyComplete
