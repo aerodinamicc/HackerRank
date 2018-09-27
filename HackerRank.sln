@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotation", "LeftRotatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArrays\SparseArrays.csproj", "{9FB35AB2-54B0-4BD0-9773-7359B657114C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDeWea", "FindDeWea\FindDeWea.csproj", "{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{9FB35AB2-54B0-4BD0-9773-7359B657114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB35AB2-54B0-4BD0-9773-7359B657114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB35AB2-54B0-4BD0-9773-7359B657114C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
