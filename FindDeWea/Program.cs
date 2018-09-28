@@ -1,103 +1,104 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FindDeWea
+class Solution
 {
-    public class Program
+    static void Main(String[] args)
     {
-        private const string NO_PASS_SYMBOL = "X";
-        private const string PASS = ".";
+        int n = Int32.Parse(Console.ReadLine());
 
-        static void Main(string[] args)
+        char[,] grid = new char[n,n];
+
+        for (int i = 0; i < n; i++)
         {
-            int n = Convert.ToInt32(Console.ReadLine());
-
-            string[,] grid = new string[n, n];
-
-            for (int i = 0; i < n; i++)
+            var chars = Console.ReadLine().ToCharArray();
+            for (int j = 0; j < n; j++)
             {
-                var gridItem = Console.ReadLine().Split(' ').ToArray();
-                for (int element = 0; element < gridItem.Length; element++)
+                grid[i, j] = chars[j];
+            }
+        }
+            
+
+        int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), Int32.Parse);
+        var pStart = new Point(arr[0], arr[1]);
+        var pTarget = new Point(arr[2], arr[3]);
+
+        int count = BFS(grid, pStart, pTarget);
+
+        Console.WriteLine(count);
+    }
+
+    public static int BFS(char[,] grid, Point pStart, Point pTarget)
+    {
+        var queue = new Queue<Point>();
+        queue.Enqueue(pStart);
+
+        grid[pStart.Y,pStart.X] = '*';
+
+        while (queue.Any())
+        {
+            Point pCurrent = queue.Dequeue();
+
+            if (pCurrent.Y == pTarget.Y && pCurrent.X == pTarget.X)
+                return pCurrent.Depth;
+
+            for (int y = pCurrent.Y - 1; y >= 0 && grid[y,pCurrent.X] != 'X'; y--)
+            {
+                if (grid[y,pCurrent.X] != '*')
                 {
-                    grid[i, element] = gridItem[element];
+                    queue.Enqueue(new Point(y, pCurrent.X, pCurrent.Depth + 1));
+                    grid[y,pCurrent.X] = '*';
                 }
             }
 
-            string[] startXStartY = Console.ReadLine().Split(' ');
-
-            int startX = Convert.ToInt32(startXStartY[0]);
-
-            int startY = Convert.ToInt32(startXStartY[1]);
-
-            int goalX = Convert.ToInt32(startXStartY[2]);
-
-            int goalY = Convert.ToInt32(startXStartY[3]);
-
-            int result = minimumMoves(grid, startX, startY, goalX, goalY);
-
-            Console.WriteLine(result);
-        }
-
-        public static int minimumMoves(string[,] grid, int startX, int startY, int goalX, int goalY)
-        {
-            int counter = 0;
-
-            if (startX == goalX && startY == goalY)
+            for (int y = pCurrent.Y + 1; y < grid.GetLength(1) && grid[y,pCurrent.X] != 'X'; y++)
             {
-                return 1;
+                if (grid[y,pCurrent.X] != '*')
+                {
+                    queue.Enqueue(new Point(y, pCurrent.X, pCurrent.Depth + 1));
+                    grid[y,pCurrent.X] = '*';
+                }
             }
 
-            int up = MoveUp(grid, startX, startY, goalX, goalY);
-            int left = MoveLeft(grid, startX, startY, goalX, goalY);
-            int down = MoveDown(grid, startX, startY, goalX, goalY);
-            int right = MoveRight(grid, startX, startY, goalX, goalY);
-
-            counter += Math.Min(Math.Min(up, left), Math.Min(down, right));
-
-            return counter;
-        }
-
-        private static int MoveRight(string[,] grid, int startX, int startY, int goalX, int goalY)
-        {
-            while (startX + 1 < grid.GetLength(0) && grid[startX + 1, startY] == PASS)
+            for (int x = pCurrent.X - 1; x >= 0 && grid[pCurrent.Y,x] != 'X'; x--)
             {
-                startX += 1;
+                if (grid[pCurrent.Y,x] != '*')
+                {
+                    queue.Enqueue(new Point(pCurrent.Y, x, pCurrent.Depth + 1));
+                    grid[pCurrent.Y,x] = '*';
+                }
             }
 
-            return minimumMoves(grid, startX, startY, goalX, goalY);
-        }
-
-        private static int MoveDown(string[,] grid, int startX, int startY, int goalX, int goalY)
-        {
-            while (startY + 1 < grid.GetLength(1) && grid[startX, startY + 1] != NO_PASS_SYMBOL)
+            for (int x = pCurrent.X + 1; x < grid.GetLength(0) && grid[pCurrent.Y, x] != 'X'; x++)
             {
-                startY += 1;
+                if (grid[pCurrent.Y,x] != '*')
+                {
+                    queue.Enqueue(new Point(pCurrent.Y, x, pCurrent.Depth + 1));
+                    grid[pCurrent.Y,x] = '*';
+                }
             }
-
-            return minimumMoves(grid, startX, startY, goalX, goalY);
         }
 
-        private static int MoveLeft(string[,] grid, int startX, int startY, int goalX, int goalY)
-        {
-            while (startX - 1 > 0 && grid[startX - 1, startY] != NO_PASS_SYMBOL)
-            {
-                startX -= 1;
-            }
+        return -1;
+    }
+}
 
-            return minimumMoves(grid, startX, startY, goalX, goalY);
-        }
+struct Point
+{
+    public int X { get; private set; }
+    public int Y { get; private set; }
+    public int Depth { get; private set; }
 
-        private static int MoveUp(string[,] grid, int startX, int startY, int goalX, int goalY)
-        {
-            while (startY - 1 > 0 && grid[startX, startY] != NO_PASS_SYMBOL)
-            {
-                startY -= 1;
-            }
+    public Point(int y, int x)
+    {
+        Y = y;
+        X = x;
+        Depth = 0;
+    }
 
-            return minimumMoves(grid, startX, startY, goalX, goalY);
-        }
+    public Point(int y, int x, int depth) : this(y, x)
+    {
+        Depth = depth;
     }
 }

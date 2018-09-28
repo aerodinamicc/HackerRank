@@ -13,20 +13,18 @@ namespace FindDeWea.Tests
         [TestMethod]
         public void MinimumMoves_Successful()
         {
-            string[,] array = new string[3, 3]
+            char[,] array = new char[3, 3]
             {
-                {".", ".", "," },
-                {".", "X", "," },
-                {".", ".", "," }
+                {'.', '.', ',' },
+                {'.', 'X', ',' },
+                {'.', '.', ',' }
             };
 
-            int startX = 0;
-            int startY = 0;
-            int goalX = 1;
-            int goalY = 2;
+            var startP = new Point(0, 0);
+            var endP = new Point(1, 2);
 
             var expectedMoves = 2;
-            var actualMoves = Program.minimumMoves(array, startX, startY, goalX, goalY);
+            var actualMoves = Solution.BFS(array, startP, endP);
 
             Assert.AreEqual(expectedMoves, actualMoves);
         }
