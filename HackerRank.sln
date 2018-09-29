@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDeWea", "FindDeWea\FindDeWea.csproj", "{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{0314E950-61CA-4971-B207-3CA3F14295A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB0AD0A-C494-40C0-99CF-F72AB4B10911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0314E950-61CA-4971-B207-3CA3F14295A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0314E950-61CA-4971-B207-3CA3F14295A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0314E950-61CA-4971-B207-3CA3F14295A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0314E950-61CA-4971-B207-3CA3F14295A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
