@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDeWea", "FindDeWea\Find
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{0314E950-61CA-4971-B207-3CA3F14295A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoisonousPlants", "PoisonousPlants\PoisonousPlants.csproj", "{448047ED-CC4E-4060-91F6-65CB445AD9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0314E950-61CA-4971-B207-3CA3F14295A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0314E950-61CA-4971-B207-3CA3F14295A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0314E950-61CA-4971-B207-3CA3F14295A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448047ED-CC4E-4060-91F6-65CB445AD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448047ED-CC4E-4060-91F6-65CB445AD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448047ED-CC4E-4060-91F6-65CB445AD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448047ED-CC4E-4060-91F6-65CB445AD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
